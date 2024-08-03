@@ -90,21 +90,19 @@ Quickbite is a food ordering app that allows user login and registration. It sho
 ## Screenshots
 
 ### Landing Page
-![Landing Page](https://github.com/user-attachments/assets/d4564d53-4381-4899-93cd-befbe3e05da0)
+![Landing Page](https://github.com/user-attachments/assets/a1af4c31-274b-45a4-a060-2c1811a80695)
 
 ### Food Gallery
-![Food Gallery](https://github.com/user-attachments/assets/183ce62f-751b-42ad-a40d-3f56cc96430d)
+![Food Gallery](https://github.com/user-attachments/assets/956dc4f8-432e-4554-a8bd-1938ad9a4c4f)
 
 ### Cart Page
-![Cart Page](https://github.com/user-attachments/assets/1be673d7-bce4-4c62-a1d4-5851a6769d26)
+![Cart Page](https://github.com/user-attachments/assets/20d71827-7bc6-492f-98c2-142651cb72e8)
 
 ### Orders Page
-![Screenshot (49)](https://github.com/user-attachments/assets/08bfae93-b030-4542-9229-7dcffb625028)
-
+![Orders Page](https://github.com/user-attachments/assets/f1d04583-d987-4c5f-b52f-66deef0ae251)
 
 ### Admin Food Panel
-![Admin Food Handling](https://github.com/user-attachments/assets/cc03bfe6-f219-4b6d-9ff1-880d58d00b29)
-
+![Admin Panel](https://github.com/user-attachments/assets/21ad7e33-466f-45a9-867f-1d070779d9c2)
 
 
 ## Contributing
